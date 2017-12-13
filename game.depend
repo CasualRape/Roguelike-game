@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1512564745 source:c:\users\demon\desktop\game\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	"math.h"
+	"rlutil.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<rtutils.h>
+
+1512563985 c:\users\demon\desktop\game\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
